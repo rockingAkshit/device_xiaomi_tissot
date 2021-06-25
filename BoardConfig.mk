@@ -53,3 +53,6 @@ VENDOR_SECURITY_PATCH := 2020-05-05
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/tissot/BoardConfigVendor.mk
+
+# LED
+TARGET_LED_WHITE_ONLY := true
