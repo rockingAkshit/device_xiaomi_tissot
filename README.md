@@ -1,7 +1,6 @@
 # Device Tree for Xiaomi Mi A1 (tissot)
-
+###Original trees are by LineageOS, I have just made some changes
 ## Spec Sheet
-
 | Feature                 | Specification                     |
 | :---------------------- | :-------------------------------- |
 | CPU                     | Octa-core 2.0 GHz Cortex-A53      |
